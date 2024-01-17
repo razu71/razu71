@@ -1,6 +1,6 @@
+![I am GitHub Readme Generator's creator](https://rabiulislam.dev/documents/images/banner.jpeg)
 ### Hi there 👋, my name is Rabiul Islam
 #### Sr. Web Developer | Laravel | VueJs
-![I am GitHub Readme Generator's creator](https://rabiulislam.dev/documents/images/banner.jpeg)
 
 I am a Sr. Full Stack Web Developer with over 5 years of experience in creating efficient, secure, and user-friendly web applications. I have a Bachelor of Engineering degree in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University, where I honed my skills in various web technologies, such as Laravel, PHP, JavaScript, Vue.js, MySQL, Git, Docker, CI/CD, and server management.
 
